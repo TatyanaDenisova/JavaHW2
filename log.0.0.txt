@@ -1,0 +1,15 @@
+θών. 04, 2023 11:34:47 PM org.example.Task2 main
+INFO: 1 
+
+θών. 04, 2023 11:34:47 PM org.example.Task2 main
+INFO: 3 
+
+θών. 04, 2023 11:34:47 PM org.example.Task2 main
+INFO: 4 
+
+θών. 04, 2023 11:34:47 PM org.example.Task2 main
+INFO: 6 
+
+θών. 04, 2023 11:34:47 PM org.example.Task2 main
+INFO: 9 
+
